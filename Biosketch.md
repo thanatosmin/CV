@@ -38,16 +38,14 @@ header-includes: |
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
 
-I have a background in biological engineering, with training in applied machine learning, cell signaling, and pharmacodynamics. My research broadly applies integrated experimental and theoretical approaches to study the complex signaling that underlies cell-to-cell communication and resistance to therapies. My lab is particularly interested in how signaling cues operate in combination to direct cancer and immune effector cell behavior and how we might optimally target their dysregulation. For example, my previous work has shown how (1) to use a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines, (2) IgG antibody effector function is transduced through multiple receptors and effector cells, (3) an RTK family expressed in cancer and innate immune cells is activated in response to extracellular cues in the tumor microenvironment, and (4) receptor crosstalk is a mechanism of signal diversification promoting breast tumor invasion.
+I have a background in the integration of biological engineering, applied machine learning, cell signaling, and pharmacodynamics. My research broadly applies integrated experimental and theoretical approaches to study the complex signaling that underlies cell-to-cell communication and resistance to therapies. My lab is particularly interested in how signaling cues operate in combination to direct cancer and immune effector cell behavior and how we might optimally target their dysregulation. As part of this, a major thrust of my work has been development of new computational methods to understand multi-variate and multi-dimensional cell signaling processes. For example, my previous work has shown how (1) tensor factorization can be applied to visualize and engineer IL-2 muteins with optimized cell type-specific responses, (2) a mechanistic binding model can inform how IgG antibody effector function is transduced through multiple receptors and effector cells, and (3–4) how multi-linear models can be applied for hypothesis-driven, systems-level interrogation of cell signaling.
 
-I have extensive experience with projects that merge quantitative molecular biology with computational analysis such as in the work described here. This experience includes a track record of success mentoring graduate students, postdoctoral associates, and technical associates.
+I have extensive experience with collaborative projects that merge quantitative molecular biology with computational analysis such as in the work described here. This experience includes a track record of success mentoring graduate students, postdoctoral associates, and technical associates.
 
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv._ 2020 March 19.
 2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 2018 July 25; 6(7): 1–8.
-3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1): 25–36. PMCID: 4520549.
-4. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-
-\noindent ^†^Co-corresponding authors.
+3. Manole, S., E.J. Richards, **A.S. Meyer**. JNK pathway activation modulates acquired resistance to EGFR/HER2 targeted therapies. _Cancer Research._ 2016 Sept 15; 76 (18): 5219-5228. PMCID: 5026573.
+4. Schwartz, A.D., L.E. Barney, L.E. Jansen, T.V. Nguyen, C.L. Hall, **A.S. Meyer**, S. Peyton. (2017). A Biomaterial Screening Approach to Reveal Microenvironmental Mechanisms of Drug Resistance. _Integrative Biology_. 2017 Dec 11; 9(12):912-924. PMCID: PMC5725273.
 
 
 ## B. Positions and Honors
@@ -79,6 +77,9 @@ I have extensive experience with projects that merge quantitative molecular biol
  ~ Member, Bioinformatics Interdepartmental Program, UCLA
 
 ### Other Experience and Professional Memberships
+
+2020–Present
+ ~ Core Developer, Tensorly tensor learning Python package
 
 2010–Present
  ~ Member, Biomedical Engineering Society
@@ -133,6 +134,14 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 <!-- Briefly describe up to five of your most significant contributions to science. For each contribution, indicate the historical background that frames the scientific problem; the central finding(s); the influence of the finding(s) on the progress of science or the application of those finding(s) to health or technology; and your specific role in the described work. For each of these contributions, reference up to four peer-reviewed publications or other non-publication research products (can include audio or video products; patents; data and research materials; databases; educational aids or curricula; instruments or equipment; models; protocols; and software or netware) that are relevant to the described contribution. The description of each contribution should be no longer than one half page including figures and citations. Also provide a URL to a full list of your published work as found in a publicly available digital database such as SciENcv or My Bibliography, which are maintained by the US National Library of Medicine. -->
 
+### Problem-driven computational methods development
+
+Studying complex signaling requires approaches tailored to the biologic system and scientific challenge at hand. We have adopted a wide range of mathematical and computational methods to provide new views of cell signaling mechanisms. For example, in (1) we demonstrated how tensor factorization can help to visualize the high-dimensional response of the common gamma chain receptor cytokine family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inference techniques of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
+
+1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv._ 2020 March 19.
+2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549. ^†^Co-corresponding authors.
+3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, Nov 2019.
+4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020.
 
 ### Understanding and targeting receptor family communication
 
@@ -142,15 +151,6 @@ Receptor families can have many ligands and receptors while being expressed in d
 2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8.
 3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25--36. PMCID: 4520549. ^†^Co-corresponding authors.
 4. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
-
-### Problem-driven computational methods development
-
-Studying complex signaling requires approaches tailored to the biologic system and scientific challenge at hand. We have adopted a wide range of mathematical and computational methods to provide new views of cell signaling mechanisms. For example, in (1) we demonstrated how tensor factorization can help to visualize the high-dimensional response of the common gamma chain receptor cytokine family. In (2) we uncovered that the TAM receptor family senses local clusters of ligand, and used a partial differential equation model to explore this process. Finally, we have used Bayesian inference techniques of increasing scalability to perform robust parameterization of our models of interest (1, 3, 4).
-
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2020). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _bioRxiv._ 2020 March 19.
-2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549. ^†^Co-corresponding authors.
-3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031, Nov 2019.
-4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020.
 
 ### Therapeutic resistance and design
 
