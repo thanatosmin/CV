@@ -38,16 +38,16 @@ header-includes: |
 
 <!-- Briefly describe why you are well-suited for your role(s) in the project described in this application. The relevant factors may include aspects of your training; your previous experimental work on this specific topic or related topics; your technical expertise; your collaborators or scientific environment; and your past performance in this or related fields (you may mention specific contributions to science that are not included in Section C). -->
 
-I have a background in biological engineering, with training in applied machine learning, cell signaling, and pharmacodynamics. My research broadly applies integrated experimental and theoretical approaches to study the complex signaling that underlies cell-to-cell communication and resistance to therapies. My lab is particularly interested in how signaling cues operate in combination to direct cancer and immune effector cell behavior and how we might optimally target their dysregulation. For example, my previous work has shown how (1) to use a pharmacodynamic model of IL-2 signaling across cell populations to engineer cell-specific cytokines, (2) IgG antibody effector function is transduced through multiple receptors and effector cells, (3) an RTK family expressed in cancer and innate immune cells is activated in response to extracellular cues in the tumor microenvironment, and (4) receptor crosstalk is a mechanism of signal diversification promoting breast tumor invasion.
+Our lab's focus on undergraduate research and preparing students for graduate training makes it an excellent environment for this R25 proposal on cancer genomics. I see research as central to undergraduate education and an excellent activity to develop one’s communication skills and independent critical thinking. Undergraduate students in our lab are fully integrated into the research process, including presenting within lab meetings, meeting with me directly during weekly project-specific updates, and eventually independently defining their research direction. More experienced students also present in external campus and national settings, including at the QCBio Annual Retreat, Biomedical Engineering Society Annual Meeting, and Annual Biomedical Research Conference for Minority Students.
 
-I have extensive experience with projects that merge quantitative molecular biology with computational analysis such as in the work described here. This experience includes a track record of success mentoring graduate students, postdoctoral associates, and technical associates.
+The scale of undergraduate research in our lab speaks to its importance. I have mentored over 30 undergraduate students for at least one quarter since moving to UCLA in 2017. The majority of these students spend 10–15 hours/week on research, continue for more than a year, and elect to receive course credit. Currently, I mentor 10 undergraduates on independent research projects. Authors who participated as undergraduate researchers in our lab are italicized below. Additionally, S.D. Taylor and C. Posner participated as post-baccalaureate staff and have now gone on to graduate training.
 
-1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 35(4): 109044. PMID: 33910015.
-2. Robinett, R.A., N. Guan, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). "Dissecting FcγR Regulation Through a Multivalent Binding Model." _Cell Systems._ 6(7): 1–8. PMCID: 6062446.
-3. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1): 25–36. PMCID: 4520549.
-4. **Meyer, A.S.**, M.A. Miller, F.B. Gertler, D.A. Lauffenburger. (2013). The receptor AXL diversifies EGFR signaling and limits the response to EGFR-targeted inhibitors in triple-negative breast cancer cells. _Science Signaling_, 6(287), ra66. PMCID: 3947921.
+Ensuring access to undergraduate research, particularly for students of diverse backgrounds, requires financially supporting their work. I explicitly budget funds for summer undergraduate student stipends in our grants and have consistently supported at least two students each summer full-time. Our students have also received campus and national awards including from the Undergraduate Research Fellows Program, Undergraduate Research Scholars Program, Rose Hills Foundation Fellowship, NSF Graduate Research Fellowship, and Cathy Bank Scholarship. To ensure that I am offering the best possible training environment for our diverse lab members, I have undergone mentorship training through programs in Out in Science, Technology, Engineering, and Mathematics; the Citizen Science Program; and the Biomedical Engineering Society. I am scheduled to complete mentorship training at UCLA in the coming months as well. Recently, my contributions to undergraduate education were recognized with the 2021 Northrop Grumman Excellence in Teaching Award.
 
-\noindent ^†^Co-corresponding authors.
+1. _Murphy, M._, S.D. Taylor, **A.S. Meyer.** (2021). Structured decomposition improves systems serology prediction and interpretation. _bioRxiv_ [Preprint]. 2021 Jan 4.
+2. _Farhat, A.M., A.C. Weiner_, C. Posner, _Z.S. Kim_, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 2021 Apr 27; 35(4): 109044. PMID: 33910015.
+3. Bae, S.Y., _N. Guan, R. Yan, K. Warner_, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), 2020 Apr. PMCID: 7171175.
+4. _Robinett, R.A., N. Guan_, A. Lux, M. Biburger, F. Nimmerjahn, **A.S. Meyer**. (2018). Dissecting FcγR Regulation Through a Multivalent Binding Model. _Cell Systems._ 2018 July 25; 6(7): 1–8. PMCID: 6062446.
 
 
 ## B. Positions and Honors
@@ -78,6 +78,29 @@ I have extensive experience with projects that merge quantitative molecular biol
 2018–Present
  ~ Member, Bioinformatics Interdepartmental Program, UCLA
 
+### Teaching Experience
+
+2010
+ ~ Teaching Assistant, Thermodynamics of Biomolecular Systems, Biological Engineering, MIT
+
+July 2015 – January 2016
+ ~ Faculty of the Citizen Science Program, Bard College
+
+2017, 2019, 2020
+ ~ Guest Speaker, Introduction to Bioengineering, Department of Bioengineering, UCLA
+
+2017 – Present
+ ~ Mentor, Bioengineering Capstone, Department of Bioengineering, UCLA
+
+2018 – Present
+ ~ Instructor, Bioengineering Laboratory, Department of Bioengineering, UCLA
+
+2018 – Present
+ ~ Instructor, Machine Learning & Data-Driven Modeling in Bioengineering, Department of Bioengineering, UCLA
+
+2019–Present
+ ~ Instructor, Integrated and Interdisciplinary Undergraduate Research Program, UCLA
+
 ### Other Experience and Professional Memberships
 
 2010–Present
@@ -92,6 +115,12 @@ I have extensive experience with projects that merge quantitative molecular biol
 2017–Present
  ~ Chair, Association of Cancer Systems Biologists
 
+2017–Present
+ ~ Mentor, National Research Mentoring Network
+
+2019–Present
+ ~ Member, Out in Science, Technology, Engineering, and Mathematics (oSTEM)
+
 ### Honors
 
 2009
@@ -105,9 +134,6 @@ I have extensive experience with projects that merge quantitative molecular biol
 
 2012
  ~ Repligen Fellowship in Cancer Research, Koch Institute
-
-2012
- ~ Travel grant to attend PTMs in Cell Signaling Conference in Copenhagen, Denmark
 
 2013
  ~ Whitaker Fellowship, MIT
@@ -152,8 +178,8 @@ Studying complex signaling requires approaches tailored to the biologic system a
 
 1. Farhat, A.M., A.C. Weiner, C. Posner, Z.S. Kim, B. Orcutt-Jahns, S.M. Carlson, **A.S. Meyer**. (2021). Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. _Cell Reports._ 35(4): 109044. PMID: 33910015.
 2. **Meyer, A.S.**^†^, A.J.M. Zweemer, D.A. Lauffenburger^†^. (2015). The AXL Receptor Is a Sensor of Ligand Spatial Heterogeneity. _Cell Systems_, 1(1):25–36. PMCID: 4520549. ^†^Co-corresponding authors.
-3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031.
-4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020.
+3. Lee, C.H., T.H. Kang, O. Godon, M. Watanabe, G. Delidakis, C.M. Gillis, D. Sterlin, D. Hardy, M. Cogné, L.E. Macdonald, A.J. Murphy, N. Tu, J. Lee, J.R. McDaniel, E. Makowski, P.M. Tessier, **A.S. Meyer**, P. Bruhns, G. Georgiou. (2019). An engineered human Fc domain that behaves like a pH-toggle switch for ultra-long circulation persistence. _Nature Communications_, 10(1):5031. PMCID: 6834678.
+4. Bae, S.Y., N. Guan, R. Yan, K. Warner, S.D. Taylor, **A.S. Meyer**. (2020). Measurement and models accounting for cell death capture hidden variation in compound response. _Cell Death & Disease_, 255(11), Apr 2020. PMCID: 7171175.
 
 ### Therapeutic resistance and design
 
@@ -176,7 +202,7 @@ Invasion and dissemination of cells underlie many diseases including cancer. Stu
 **Complete List: <https://www.ncbi.nlm.nih.gov/myncbi/aaron.meyer.1/bibliography/public/>**
 
 
-## D. Research Support
+## D. Additional Information: Research Support and/or Scholastic Performance
 
 ### Ongoing Research Support
 
@@ -211,22 +237,3 @@ NIH U01-CA215709  \hfill  9/01/2017 – 8/30/2022
 Precision Lung Cancer Therapy Design Through Multiplexed Adapter Measurement   
 We propose to develop a global picture of bypass resistance mediated by receptor tyrosine kinases (RTKs) not targeted by therapy. By examining multiple RTKs variable in their resistance-promoting capacity at once, we will be able to determine features essential to the development of resistance.   
 Role: Co-PI
-
-### Completed Research Support
-
-UCLA Hellman Fellows Program  \hfill  7/01/2019 – 6/30/2020   
-Engineering anti-tumor antibody combinations for more effective and less toxic therapies   
-This project uses a binding model of IgG-FcγR engagement to predict combinations of anti-tumor antibodies that operate synergistically together.   
-Role: PI
-
-\vspace{12pt}
-NIH DP5-OD019815  \hfill  9/22/2014 – 9/1/2019  
-Adapter-Layer RTK Signaling: Basic Understanding & Targeted Drug Resistance  
-The goal of this project was to study sets of resistance mechanisms to RTK-targeted therapies, to identify commonalities and ways to determine which mechanism may be driving individual tumors.   
-Role: PI
-
-\vspace{12pt}
-Foundation Grant \hfill 7/1/2017 – 6/30/2019  
-Terri Brodeur Breast Cancer Foundation  
-This project used a computational model to direct the design of new inhibitors for the TAM receptors. Using these well-characterized compounds, we examined the effects of inhibiting different TAM receptor complements.   
-Role: PI
